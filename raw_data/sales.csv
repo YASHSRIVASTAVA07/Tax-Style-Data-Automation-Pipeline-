@@ -1,0 +1,4 @@
+invoice_id,invoice_date,region,revenue
+INV001,2025-01-05,India,120000
+INV002,2025-01-07,US,90000
+INV003,2025-01-10,UK,70000
